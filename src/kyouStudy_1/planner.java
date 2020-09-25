@@ -10,6 +10,7 @@ public class planner {
 		System.out.println(time.getTime());
 		
 		time.add(Calendar.SECOND, 120);
+		
 		System.out.println(time.getTime());
 	}
 }
